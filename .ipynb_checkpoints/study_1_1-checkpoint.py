@@ -1,0 +1,5 @@
+print('Hello World!')
+print('Hello','World!')
+print('Hello'+'World!')
+print(100)
+print(2+4)
